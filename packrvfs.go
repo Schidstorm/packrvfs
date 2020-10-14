@@ -1,7 +1,7 @@
 package packrvfs
 
 import (
-	"github.com/gobuffalo/packr"
+	"github.com/gobuffalo/packr/v2"
 	"golang.org/x/tools/godoc/vfs"
 	"os"
 	"path/filepath"
